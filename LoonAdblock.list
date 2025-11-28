@@ -1,7 +1,7 @@
 #!name=广告拦截合集-精简定制版
 #!desc=(自用修改) 针对特定APP进行广告拦截，移除冗余规则。某些APP需清除缓存或重装才生效。
 #!author=rocket470 (基于奶思规则修改)
-#!raw-url=https://gist.githubusercontent.com/rocket470/52ed1081993f615553259a822f08cc54/raw/7a7d17500dd9e0e8d4680f5f111e7b131da43a1a/adblock_cleaned.list
+#!raw-url=https://gist.githubusercontent.com/rocket470/52ed1081993f615553259a822f08cc54/raw/c8254b94da6e5b502fb0918d46ef88840154604a/adblock_cleaned.list
 #!date=2025-11-27 10:55:00
 #!system=iOS, iPadOS
 #!proxy-select=REJECT
